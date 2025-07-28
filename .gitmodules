@@ -1,6 +1,6 @@
 [submodule "Loop"]
 	path = Loop
-	url = url = https://github.com/cplancke/Loop.git
+	url = url = https://github.com/cplancke/Loop/blob/caroline_dev/Loop
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/LoopKit/LoopKit.git
